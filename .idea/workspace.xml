@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="lab3" targetName="lab3" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="169b7348-5a86-4be5-8fe3-a59f725a8c2f" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectId" id="1UZH1LwWYuHgbRM69YfxKF6sgfg" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="lab3" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="lab3" TARGET_NAME="lab3" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="lab3" RUN_TARGET_NAME="lab3">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="169b7348-5a86-4be5-8fe3-a59f725a8c2f" name="Default Changelist" comment="" />
+      <created>1575556980390</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575556980390</updated>
+      <workItem from="1575556989189" duration="908000" />
+      <workItem from="1575628693909" duration="1618000" />
+      <workItem from="1575634456788" duration="533000" />
+      <workItem from="1575727596564" duration="1036000" />
+      <workItem from="1575732340415" duration="2324000" />
+      <workItem from="1575738618652" duration="782000" />
+      <workItem from="1575752621040" duration="1535000" />
+      <workItem from="1575842041737" duration="3083000" />
+      <workItem from="1575883289586" duration="14104000" />
+      <workItem from="1575928534396" duration="734000" />
+      <workItem from="1575982907453" duration="6043000" />
+      <workItem from="1576097210663" duration="4422000" />
+      <workItem from="1576174782326" duration="2744000" />
+      <workItem from="1576225103138" duration="2659000" />
+      <workItem from="1576241426896" duration="1426000" />
+      <workItem from="1576249392668" duration="5233000" />
+      <workItem from="1576265623530" duration="8201000" />
+      <workItem from="1576312511745" duration="1706000" />
+      <workItem from="1576336856455" duration="1430000" />
+      <workItem from="1576504941077" duration="6377000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/square.cpp</url>
+          <line>37</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="CMakeRunConfiguration">
+        <watch expression="p1_p2" />
+        <watch expression="v_mlt_1" />
+        <watch expression="v_mlt_2" />
+        <watch expression="v_mlt_3" />
+        <watch expression="v_mlt_4" />
+        <watch expression="p3_p4" language="ObjectiveC" />
+        <watch expression="ptr" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>

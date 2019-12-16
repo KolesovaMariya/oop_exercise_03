@@ -1,0 +1,19 @@
+The figure Triangle [(2,1),(7,4),(10,2)] was successfully added;
+The figure Triangle [(4,3),(7,4),(6,5)] was successfully added;
+The figure Triangle [(0,0),(0,0),(0,0)] was successfully added;
+The figure Triangle [(8,8),(8,8),(8,8)] was successfully added;
+The figure Triangle [(0.5,-0.5),(0.75,4.25),(2,28)] isn't a triangle, square or octagon;
+The figure Triangle [(3,6),(4,4.5),(5,3)] isn't a triangle, square or octagon;
+The figure Triangle [(0,0),(1,2),(2,4)] isn't a triangle, square or octagon;
+Triangle [(2,1),(7,4),(10,2)]; Center: (6.33333,2.33333); Area: 9.5;
+Triangle [(4,3),(7,4),(6,5)]; Center: (5.66667,4); Area: 2;
+Triangle [(0,0),(0,0),(0,0)]; Center: (0,0); Area: 0;
+Triangle [(8,8),(8,8),(8,8)]; Center: (8,8); Area: 0;
+Deleted by index 1;
+Figures:
+Triangle [(2,1),(7,4),(10,2)]
+Triangle [(0,0),(0,0),(0,0)]
+Triangle [(8,8),(8,8),(8,8)]
+All figures are destroyed;
+
+Process finished with exit code 0

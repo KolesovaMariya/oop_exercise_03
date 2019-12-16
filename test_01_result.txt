@@ -1,0 +1,20 @@
+The figure Square: [(0,0)(0,4)(4,4)(4,0)] was successfully added;
+The figure Square: [(2,3)(4,1)(6,3)(4,5)] was successfully added;
+The figure Square: [(2,4)(3,2)(5,3)(4,5)] was successfully added;
+The figure Square: [(-2,-2)(-2,2)(2,2)(2,-2)] was successfully added;
+The figure Square: [(0,0)(0,0)(0,0)(0,0)] was successfully added;
+The figure Square: [(2,3)(2,4)(4,4)(2,5)] isn't a triangle, square or octagon;
+Square: [(0,0)(0,4)(4,4)(4,0)]; Center: (2,2); Area: 16;
+Square: [(2,3)(4,1)(6,3)(4,5)]; Center: (4,3); Area: 8;
+Square: [(2,4)(3,2)(5,3)(4,5)]; Center: (3.5,3.5); Area: 5;
+Square: [(-2,-2)(-2,2)(2,2)(2,-2)]; Center: (0,0); Area: 16;
+Square: [(0,0)(0,0)(0,0)(0,0)]; Center: (0,0); Area: 0;
+Deleted by index 1;
+Figures:
+Square: [(0,0)(0,4)(4,4)(4,0)]
+Square: [(2,4)(3,2)(5,3)(4,5)]
+Square: [(-2,-2)(-2,2)(2,2)(2,-2)]
+Square: [(0,0)(0,0)(0,0)(0,0)]
+All figures are destroyed;
+
+Process finished with exit code 0

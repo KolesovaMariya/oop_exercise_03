@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/LENOVO/CLionProjects/OOP/lab3/figure.h
+point.h
+C:/Users/LENOVO/CLionProjects/OOP/lab3/point.h
+iostream
+-
+
+C:/Users/LENOVO/CLionProjects/OOP/lab3/main.cpp
+iostream
+-
+vector
+-
+fstream
+-
+triangle.h
+C:/Users/LENOVO/CLionProjects/OOP/lab3/triangle.h
+square.h
+C:/Users/LENOVO/CLionProjects/OOP/lab3/square.h
+octagon.h
+C:/Users/LENOVO/CLionProjects/OOP/lab3/octagon.h
+
+C:/Users/LENOVO/CLionProjects/OOP/lab3/octagon.h
+figure.h
+C:/Users/LENOVO/CLionProjects/OOP/lab3/figure.h
+
+C:/Users/LENOVO/CLionProjects/OOP/lab3/point.h
+iostream
+-
+cmath
+-
+
+C:/Users/LENOVO/CLionProjects/OOP/lab3/square.h
+figure.h
+C:/Users/LENOVO/CLionProjects/OOP/lab3/figure.h
+
+C:/Users/LENOVO/CLionProjects/OOP/lab3/triangle.h
+figure.h
+C:/Users/LENOVO/CLionProjects/OOP/lab3/figure.h
+
