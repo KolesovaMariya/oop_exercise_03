@@ -7,8 +7,8 @@
 #include "octagon.h"
 
 int main() {
-    //std::ifstream in(R"(C:\Users\LENOVO\CLionProjects\OOP\lab3\test_02.txt)");
-    //std::cin.rdbuf(in.rdbuf());
+    std::ifstream in(R"(C:\Users\LENOVO\CLionProjects\OOP\lab3\test_00.txt)");
+    std::cin.rdbuf(in.rdbuf());
     std::string command;
     std::vector<figure*> figures;
     while(std::cin >> command) {

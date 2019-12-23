@@ -1,10 +1,16 @@
 #include "triangle.h"
 #include <iostream>
-#include <cassert>
-triangle::triangle(const point& p1_, const point& p2_, const point& p3_): p1(p1_), p2(p2_), p3(p3_) {}
+triangle::triangle(const point& p1_, const point& p2_, const point& p3_): p1(p1_), p2(p2_), p3(p3_) {
+    if(!is_figure()) {
+        throw std::invalid_argument(" This figure isn't a triangle, square or octagon: ");
+    }
+}
 
 triangle::triangle(std::istream &is) {
     is >> p1 >> p2 >> p3;
+    if(!is_figure()) {
+        throw std::invalid_argument(" This figure isn't a triangle, square or octagon: ");
+    }
 }
 
 point triangle::center() const {

@@ -25,7 +25,7 @@
   <component name="ProjectId" id="1UZH1LwWYuHgbRM69YfxKF6sgfg" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../lab1" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
@@ -78,7 +78,9 @@
       <workItem from="1576265623530" duration="8201000" />
       <workItem from="1576312511745" duration="1706000" />
       <workItem from="1576336856455" duration="1430000" />
-      <workItem from="1576504941077" duration="6377000" />
+      <workItem from="1576504941077" duration="8659000" />
+      <workItem from="1576828999292" duration="80000" />
+      <workItem from="1577103884208" duration="3610000" />
     </task>
     <servers />
   </component>
@@ -86,15 +88,6 @@
     <option name="version" value="1" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/square.cpp</url>
-          <line>37</line>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
     <watches-manager>
       <configuration name="CMakeRunConfiguration">
         <watch expression="p1_p2" />

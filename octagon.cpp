@@ -1,15 +1,23 @@
 #include "octagon.h"
 #include "triangle.h"
-
+#include <stdexcept>
 octagon::octagon (const point &p1_, const point &p2_,
                   const point &p3_, const point &p4_,
                   const point &p5_, const point &p6_,
                   const point &p7_, const point &p8_):
                   p1(p1_), p2(p2_), p3(p3_), p4(p4_),
-                  p5(p5_), p6(p6_), p7(p7_), p8(p8_) {}
+                  p5(p5_), p6(p6_), p7(p7_), p8(p8_) {
+    if (!is_figure()) {
+        throw std::invalid_argument(" This figure isn't a triangle, square or octagon: ");
+    }
+}
+
 
 octagon::octagon(std::istream &is) {
     is >> p1 >> p2 >> p3 >> p4 >> p5 >> p6 >> p7 >> p8;
+    if(!is_figure()) {
+        throw std::invalid_argument(" This figure isn't a triangle, square or octagon: ");
+    }
 }
 
 point octagon::center() const {

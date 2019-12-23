@@ -3,11 +3,16 @@
 #include<cmath>
 square::square(point p1_, point p2_, point p3_, point p4_): p1(p1_), p2(p2_), p3(p3_), p4(p4_) {
     this->sort();
+    if(!is_figure()) {
+        throw std::invalid_argument(" isn't a triangle, square or octagon;");
+    }
 }
 
 square::square(std::istream &is) {
     is >> p1 >> p2 >> p3 >> p4;
-    this->sort();
+    if(!is_figure()) {
+        throw std::invalid_argument(" This figure isn't a triangle, square or octagon: ");
+    }
 }
 double square::area() const {
     return pow(dist(p1, p2), 2);
